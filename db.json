@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "firstname": "archana",
+      "lastname": "nayyar",
+      "birthdate": "2022-11-10",
+      "gender": "f",
+      "education": "post graduate",
+      "company": "Aareon",
+      "jobExperience": 2,
+      "salary": 80000,
+      "id": 1
+    },
+    {
+      "firstname": "Varun",
+      "lastname": "Nayyar",
+      "birthdate": "2022-11-17",
+      "gender": "m",
+      "education": "PhD",
+      "company": "SKF",
+      "jobExperience": 12,
+      "salary": 50000,
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
